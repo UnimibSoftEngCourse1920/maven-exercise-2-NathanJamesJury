@@ -1,4 +1,4 @@
-package com.NathanJamesWhitingJury.build.maven.simple;
+package com.vogella.build.maven.simple;
 
 public class Main {
 
